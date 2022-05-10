@@ -1,0 +1,2 @@
+<input type = "text" id="user_name" class ="form-control"placholder="user name">
+<button id="login button " class="btn btn-primary "onclick="adduser()"Log In></button> 
